@@ -1,0 +1,11 @@
+puts 'RUBY EXERCISES ASSIGNMENT'
+puts ''
+puts 'EXERCISE 7'
+puts ''
+
+puts 'The major differences between an Array and a Hash are:'
+puts '- Order, with hashes order does not matter. Although in'
+puts '  Ruby 2.0 order is now considered.'
+puts ''
+puts '- With a Hash indexing is done via arbitrary keys of any object type'
+puts ''
